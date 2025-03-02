@@ -1,7 +1,7 @@
 # descending_order_mergesort
-#REG NO:EB3/61593/22
+#  REG NUMBER:EB3/61593/22
 
-#NAME:BRENDA BARASA
+#  NAME:BRENDA BARASA
 
 
 # Merge Sort in C#
